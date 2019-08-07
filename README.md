@@ -11,3 +11,7 @@
 ### Task2 数组中的第K个最大元素
 [code](./code/215.cpp)
 [note](./note/215.md)
+
+### Task3 合并K个有序链表
+[code](./code/23.cpp)
+[note](./note/23.md)
