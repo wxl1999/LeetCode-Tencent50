@@ -75,3 +75,8 @@
 
 [code](./code/146.cpp)
 [note](./note/146.md)
+
+### Task16 Nim游戏
+
+[code](./code/292.cpp)
+[note](./note/292.md)
